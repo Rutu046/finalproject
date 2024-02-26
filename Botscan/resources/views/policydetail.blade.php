@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Policy Details</title>
+    <title>Policy_Details</title>
     <link rel="stylesheet" href="{{Asset("css/policydetails.css")}}">
 </head>
 
