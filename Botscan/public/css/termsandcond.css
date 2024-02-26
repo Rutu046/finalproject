@@ -1,0 +1,47 @@
+
+body {
+    background-color: rgb(184, 231, 114);
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+.container {
+width: 80%;
+margin: auto;
+padding: 20px;
+background-color: Blind(234, 140, 129);
+border-radius: 100px;
+border-color: green;
+box-shadow: 0 0 10px greenyellow(0, 0, 0, 0.1);
+margin-top: 20px;
+}
+
+h1 {
+margin-top: 0;
+text-align: center;
+}
+
+p {
+line-height: 1.6;
+}
+
+button {
+background-color: #007bff;
+color: #fff;
+border: none;
+padding: 10px 20px;
+border-radius: 5px;
+cursor: pointer;
+margin-bottom: 20px;
+}
+
+
+button:focus {
+outline: none;
+}
+
+.hidden {
+display: none;
+}

@@ -1,0 +1,50 @@
+body {
+    background-image: url('image2.jpg'); 
+        background-size: cover;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+    }
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: blind;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px greenyellow(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+h1 {
+    margin-top: 0;
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.highlight {
+    background-color: lightcyan;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+button {
+    background-color: greenyellow;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    display: block;
+    margin: auto;
+}
