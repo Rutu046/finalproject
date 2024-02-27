@@ -62,3 +62,7 @@ Route::get('/termsandcond', function () {
     return view('termsandcond');
 });
 
+Route::get('/userinfo', function () {
+    return view('userinfo');
+});
+

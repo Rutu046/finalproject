@@ -43,8 +43,15 @@
               <li class="nav-item ">
                 <a class="nav-link active  text-white" aria-current="page" href="/"><b>Home</b></a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link  text-white" href="#"><b>About Journal</b></a>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle  text-white" href="#" role="button" data-bs-toggle="dropdown"
+                  aria-expanded="false">
+                  <b>About Journal</b>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="/userinfo">Information for User</a></li>
+                  <li><a class="dropdown-item" href="#">Manuscript</a></li>
+                </ul>
               </li>
               <li class="nav-item">
                 <a class="nav-link  text-white" href="#"><b>Archives</b></a>
