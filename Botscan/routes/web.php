@@ -66,3 +66,7 @@ Route::get('/userinfo', function () {
     return view('userinfo');
 });
 
+Route::get('/manuscript', function () {
+    return view('manuscript');
+});
+

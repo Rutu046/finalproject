@@ -50,7 +50,7 @@
                 </a>
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="/userinfo">Information for User</a></li>
-                  <li><a class="dropdown-item" href="#">Manuscript</a></li>
+                  <li><a class="dropdown-item" href="/manuscript">Manuscript Preperation</a></li>
                 </ul>
               </li>
               <li class="nav-item">

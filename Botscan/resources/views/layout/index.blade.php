@@ -17,8 +17,6 @@
 
 <body>
 
-
-
   <!---------heading--------->
   <section class="bg">
     <div class=" text-white p-6 text-center animated-content">
@@ -52,7 +50,7 @@
                 </a>
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="/userinfo">Information for User</a></li>
-                  <li><a class="dropdown-item" href="#">Manuscript</a></li>
+                  <li><a class="dropdown-item" href="/manuscript">Manuscript Preperation</a></li>
                 </ul>
               </li>
 
@@ -158,7 +156,7 @@
               </form>
             </div>
             <div class="col-md-5">
-              <img src="{{Asset("image/pic4.jpg")}}" class="d-block w-100">
+              <img src="{{Asset("image/pic4.jpg")}}" class="d-block img2">
             </div>
           </div>
         </div>
