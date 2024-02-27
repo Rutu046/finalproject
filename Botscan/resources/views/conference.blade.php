@@ -16,15 +16,12 @@
 @section('webcontent')
 
 
-  <header>
-    <h1>BotScan - Publications</h1>
-  </header>
 
   <section>
-  <body class="abc">
+  <body class="section_abc">
   <section>
     <div class="container1">
-      <h2>Explore Our Offerings</h2>
+      <h4><strong>Explore Our Offerings</strong></h4>
 
       <div class="container-card1" id="containerCard1">
         <!-- Conference Proceedings Card -->
