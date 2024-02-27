@@ -1,6 +1,5 @@
-.a{
+.body_a{
   font-family: 'Arial', sans-serif;
-  background-color: black;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -10,7 +9,6 @@
   background-size: cover; /* Set background size to cover the entire screen */
   background-position: center; /* Center the background image */
   background-attachment: fixed; /* Fix the background image while scrolling */
-  color: white;
   
 }
 
@@ -20,47 +18,56 @@
   }
 }
 
-.b{
-  background-color: hsla(149, 100%, 50%, 0.573);
-  color: #fff;
+.header_b{
+  color: hsla(126, 87%, 38%, 0.764);
   padding: 20px;
   text-align: center;
-}
 
-.c {
+  
+}
+.section_c {
   padding: 50px 20px;
   text-align: center;
   opacity: 0;
   animation: fadeIn 1s forwards;
 }
 
-.d {
+.div_d {
   max-width: 800px;
   margin: 0 auto;
 }
 
 /* ... (previous styles) ... */
 
-.apc-info {
+.apc-info1 {
   margin-bottom: 20px;
+  
 }
 
-.message-to-authors {
+.apc-info1 p {
+  
+  color: white;
+}
+
+.message-to-authors1 {
   background-color: hwb(167 3% 5% / 0.525); /* Highlight color */
   padding: 10px;
   border-radius: 5px;
+  color: white;
+  
 }
 
-.message-to-authors:hover {
+.message-to-authors1:hover {
   background-color: hsla(157, 87%, 44%, 0.543); /* Hover effect color */
 }
 
-.payment-steps {
+.payment-steps1 {
   text-align: left;
   margin-top: 20px;
+  color: aliceblue;
 }
 
-.payment-button {
+.payment-button1 {
   display: inline-block;
   padding: 10px 20px;
   font-size: 16px;
@@ -72,7 +79,7 @@
   transition: background-color 0.3s, transform 0.2s;
 }
 
-.payment-button:hover {
+.payment-button1:hover {
   background-color: #0056b3;
   transform: scale(1.05);
 }
