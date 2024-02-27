@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animated Card Grid</title>
+    <title>Editorial Advisory Board</title>
     <link rel="stylesheet" href="{{Asset("css/editorteam.css")}}">
 </head>
 

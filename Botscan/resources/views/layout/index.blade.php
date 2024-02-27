@@ -316,7 +316,8 @@
   
   </div>
   <div><br><br>
-    <button type="button" class="button">view more</button>
+    <a href="/editeam" class="button">View More</a>
+    <!--<button type="button" class="button">view more</button>-->
   </div><br><br>
 
   <!---------Logos--------->

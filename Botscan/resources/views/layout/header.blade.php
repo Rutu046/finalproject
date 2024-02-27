@@ -55,7 +55,7 @@
                   <b>Editorial Board</b>
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="/keadership">Editor</a></li>
+                  <li><a class="dropdown-item" href="/leadership">Editor</a></li>
                   <li><a class="dropdown-item" href="/leadership">Publisher</a></li>
                   <li><a class="dropdown-item" href="/editeam">Editorial Board</a></li>
                 </ul>
