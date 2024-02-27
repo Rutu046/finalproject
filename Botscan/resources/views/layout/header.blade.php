@@ -41,7 +41,7 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
               <li class="nav-item ">
-                <a class="nav-link active  text-white" aria-current="page" href="#"><b>Home</b></a>
+                <a class="nav-link active  text-white" aria-current="page" href="/"><b>Home</b></a>
               </li>
               <li class="nav-item">
                 <a class="nav-link  text-white" href="#"><b>About Journal</b></a>
@@ -55,9 +55,9 @@
                   <b>Editorial Board</b>
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Editor</a></li>
-                  <li><a class="dropdown-item" href="#">Publisher</a></li>
-                  <li><a class="dropdown-item" href="#">Editorial Board</a></li>
+                  <li><a class="dropdown-item" href="/keadership">Editor</a></li>
+                  <li><a class="dropdown-item" href="/leadership">Publisher</a></li>
+                  <li><a class="dropdown-item" href="/editeam">Editorial Board</a></li>
                 </ul>
               </li>
 
@@ -67,9 +67,9 @@
                   <b>Policy Details</b>
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Policy Details</a></li>
-                  <li><a class="dropdown-item" href="#">Privacy Policy</a></li>
-                  <li><a class="dropdown-item" href="#">Terms and Conditions</a></li>
+                  <li><a class="dropdown-item" href="/policydetail">Policy Details</a></li>
+                  <li><a class="dropdown-item" href="/privacypolicy">Privacy Policy</a></li>
+                  <li><a class="dropdown-item" href="/termsandcond">Terms and Conditions</a></li>
                 </ul>
               </li>
 
@@ -79,9 +79,9 @@
                   <b>Duties & Guidelines</b>
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Reviewers</a></li>
-                  <li><a class="dropdown-item" href="#">Authors</a></li>
-                  <li><a class="dropdown-item" href="#">Ethical Guidelines</a></li>
+                  <li><a class="dropdown-item" href="/dutiesofreviewers">Reviewers</a></li>
+                  <li><a class="dropdown-item" href="/dutiesofauthors">Authors</a></li>
+                  <li><a class="dropdown-item" href="/ethicalguidelines">Ethical Guidelines</a></li>
                 </ul>
               </li>
 
@@ -91,14 +91,21 @@
                   <b>Journal Subscription</b>
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Conference Proceedings</a></li>
-                  <li><a class="dropdown-item" href="#">Article Processing Charges (APC)</a></li>
-                  <li><a class="dropdown-item" href="#">Journal Subscriptions</a></li>
+                  <li><a class="dropdown-item" href="/conference">Conference Proceedings</a></li>
+                  <li><a class="dropdown-item" href="/apc">Article Processing Charges (APC)</a></li>
+                  <li><a class="dropdown-item" href="/journalsubscription">Journal Subscriptions</a></li>
                 </ul>
               </li>
 
-              <li class="nav-item">
-                <a class="nav-link  text-white" href="#"><b>Register</b></a>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle  text-white" href="#" role="button" data-bs-toggle="dropdown"
+                  aria-expanded="false">
+                  <b>Register</b>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="/conference">Login</a></li>
+                  <li><a class="dropdown-item" href="/apc">Register</a></li>
+                </ul>
               </li>
 
           </div>
@@ -107,7 +114,6 @@
 
     </div>
   </section>
-
 
 
   @yield('webcontent')
