@@ -47,7 +47,7 @@
         <li>Fill out the information completely & confirm</li>
         <li>Please fill in the debit or credit card information</li>
       </ol>
-    </div>
+    </div><br><br>
 
     <a href="{{ config('app.url', '') }}" class="payment-button1">BotScan - Payment Gateway</a>
     <p>BotScan Article Processing Charges (APC)</p>

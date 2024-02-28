@@ -1,4 +1,11 @@
-
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+  }
+  to {
+      opacity: 1;
+  }
+}
 .userinfo{
     padding-top: 30px;
     padding-bottom: 30px;
@@ -6,6 +13,7 @@
     color: green;
     text-align: center;
     padding-bottom: 50px;
+    animation: fadeIn 4s ease-in-out;
   }
 
   

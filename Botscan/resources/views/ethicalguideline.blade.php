@@ -21,7 +21,7 @@
 </div>
     <div class="policy">
       <div class="policy-content animated-content">
-        <h3>BotScan expects the highest ethical standards</h3>
+        <h3>● BotScan expects the highest ethical standards</h3>
         <p>BotScan expects the highest ethical standards from their authors, reviewers, and editors when conducting research, submitting papers, and throughout the peer-review process.</p>
       </div>
       <img src="{{Asset("image/ethicalstd1.jpg")}}">
@@ -29,14 +29,14 @@
     <div class="policy">
     <img src="{{Asset("image/peer1.jpg")}}">
       <div class="policy-content animated-content">
-        <h3>Peer Review</h3>
+        <h3>● Peer Review</h3>
         <p>BotScan employs a double-blind review process, in which the author identities are concealed from the reviewers, and vice versa, throughout the review process.</p>
       </div>
       
     </div>
     <div class="policy">
       <div class="policy-content animated-content">
-        <h3>Retraction Policy</h3>
+        <h3>● Retraction Policy</h3>
         <p>All Publications shall act in accordance with COPE Retraction Guidelines.</p>
       </div>
       <img src="{{Asset("image/retraction.jpg")}}">

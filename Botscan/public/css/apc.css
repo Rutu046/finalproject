@@ -18,10 +18,11 @@
   }
 }
 
-.header_b{
-  color: hsla(126, 87%, 38%, 0.764);
+.header_b h3{
+  color: white;
   padding: 20px;
   text-align: center;
+  font-weight: bold;
 
   
 }
@@ -50,7 +51,7 @@
 }
 
 .message-to-authors1 {
-  background-color: hwb(167 3% 5% / 0.525); /* Highlight color */
+  background-color: hwb(167 67% 8% / 0.525); /* Highlight color */
   padding: 10px;
   border-radius: 5px;
   color: white;

@@ -94,8 +94,9 @@ nav.navbar {
 }
 
 .img3 {
+  padding-top: 20px;
   padding-left: 40px;
-  height: 110%;
+  height: 90%;
   width: 130%;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
