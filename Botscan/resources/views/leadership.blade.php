@@ -23,11 +23,8 @@
 
             <div class="row" data-aos="zoom-in">
                 <div class="col-lg-9 text-center text-lg-start">
-                    <h3>Call For Paper</h3>
-                    <p> Scholarly open access journals, Peer-reviewed, and Refereed Journals, Impact factor 8.57
-                        (Calculate by google scholar and Semantic Scholar | AI-Powered Research Tool),
-                        Multidisciplinary, Monthly, Online, Print Journal, Indexing in all major database & Metadata,
-                        Citation Generator, Digital Object Identifier(DOI)</p>
+                    <h3> "Unlock the Power of Knowledge with BotScan!"</h3>
+                    <p> "Discover, Explore, and Innovate. Dive into the vast ocean of knowledge with BotScan. Your gateway to groundbreaking research, where every click opens doors to new insights and discoveries. Whether you're a seasoned researcher, an aspiring academic, or an enthusiastic learner, our platform empowers you to embark on a journey of intellectual growth. Join us today and let your curiosity lead the way!"</p>
                 </div>
                 <div class="col-lg-3 cta-btn-container text-center">
                     <a class="cta-btn align-middle" href="">Submit Paper Online</a>
