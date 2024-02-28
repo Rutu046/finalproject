@@ -141,15 +141,18 @@ nav.navbar {
 }
 
 .submit-btn1:hover {
-  background-color: navy;
+  background: linear-gradient(to right, hsla(123, 79%, 50%, 0.749), navy);
 }
 
+
 .submit-btn2:hover {
-  background-color: navy;
+  background: linear-gradient(to right, hsla(123, 79%, 50%, 0.749), navy);
+
 }
 
 .submit-btn3:hover {
-  background-color: navy;
+  background: linear-gradient(to right, hsla(123, 79%, 50%, 0.749), navy);
+
 }
 
 

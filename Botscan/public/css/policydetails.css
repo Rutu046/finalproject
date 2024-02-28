@@ -1,26 +1,41 @@
  section {
-    padding: 20px;
-    background-color: rgba(255, 255, 255, 0.8);
-    margin: 20px auto;
-    max-width: 800px;
-    border-radius: 10px;
-    box-shadow: 10px 20px 40px col_white_amrc(0, 0, 0, 0.1);
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.8); 
+    max-width: 1700px;
+    
+  }
+
+  section h2{
+    color: green;
+    padding: 30px;
+    text-align: center;
+   
+  }
+
+  section h2:hover{
+    color: navy;
   }
   
-  section h2 {
+  section h3 {
     color: #333;
     border-bottom: 2px solid #333;
     padding-bottom: 10px;
     margin-bottom: 20px;
+    color: navy;
   }
-  
+
+  p{
+    color: black;
+    font-size: large;
+  }
+
   section ul {
     list-style-type: none;
     padding: 0;
   }
   
   section ul li {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
   }
   
   section ul li:before {
@@ -33,3 +48,17 @@
   }
   
   
+  .animated-content {
+    animation: slideRight 1s ease forwards;
+  }
+
+  @keyframes slideRight {
+    from {
+      transform: translateX(-150%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(5);
+      opacity: 4;
+    }
+  } 

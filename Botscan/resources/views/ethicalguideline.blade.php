@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,7 +8,6 @@
   <link rel="stylesheet" href="{{Asset("css/ethicalguideline.css")}}">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 </head>
-
 <body>
 
 @extends('layout.header')
@@ -30,7 +28,7 @@
     <img src="{{Asset("image/peer1.jpg")}}">
       <div class="policy-content animated-content">
         <h3>● Peer Review</h3>
-        <p>BotScan employs a double-blind review process, in which the author identities are concealed from the reviewers, and vice versa, throughout the review process.</p>
+        <p> BotScan employs a double-blind review process, in which the author identities are concealed from the reviewers, and vice versa, throughout the review process.</p>
       </div>
       
     </div>
