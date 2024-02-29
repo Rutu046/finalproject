@@ -1,18 +1,44 @@
 
-.section_abc{
+.sectionabc{
   font-family: 'Arial', sans-serif;
-  margin: 0;
-  padding: 0;
-  background: linear-gradient(180deg, hsla(195, 15%, 95%, 0.464), hwb(120 2% 5%)); 
+  margin-top: 80;
+  padding-top: 40;
+  /*background: linear-gradient(180deg, hsla(195, 15%, 95%, 0.464), hwb(26 69% 5%)); */
 
 }
 
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+  }
+  to {
+      opacity: 1;
+  }
+}
+#containerCard1{
+  margin-top: 40px;
+  animation: fadeIn 2s ease-in-out;
+}
 
 .container1 {
   max-width: 900px;
   margin: 0 auto;
   padding: 30px;
 }
+
+.exploreoffering{
+  color: green;
+  text-align: center;
+  font-weight: bold;
+  padding: 60px;
+ 
+}
+
+.exploreoffering:hover{
+  color: navy;
+}
+
+
 
 h4 {
   text-align: center;
@@ -24,8 +50,12 @@ h4 {
 
 .container-card1 {
   display: flex;
+  margin-top: 30px;
   flex-wrap: wrap;
   justify-content: center;
+  height: 500px;
+  
+
 }
 
 .card1 {
@@ -33,32 +63,41 @@ h4 {
   border-radius: 12px;
   overflow: hidden;
   margin: 15px;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 2px 10px 10px 8px rgb(107, 106, 106);
   width: 300px;
   transition: transform 0.3s ease-in-out;
+  height: 250px;
+  
 }
 
 .card1:hover {
   transform: translateY(-10px);
 }
 
-.card-body1 {
-  padding: 20px;
+.card-body1 h5 {
+  padding: 30px;
   text-align: justify;
+  color: navy;
+  font-weight: bold;
+  
 }
 
 .btn-group1 {
-  margin-top: 25px;
+  margin-top: 0px;
+  display: flex;
+  padding: 0px;
+  margin-bottom: 30px;
 }
 
 .btn-primary1 {
-  background: linear-gradient(to right, #007bff, #0056b3);
+  background: linear-gradient(to right, #12a42f, #26a666);
   color: white;
   border: none;
   padding: 8px;
   cursor: pointer;
   border-radius: 25px;
   transition: background 0.3s ease-in-out;
+  margin-left: 230px;
 }
 
 .btn-primary1:hover {

@@ -74,6 +74,11 @@
       padding: 40px;
     }
 
+    .policy p{
+      color: black;
+      font-size: large;
+    }
+
     .policy img {
       width: 150px;
       height: 150px;
@@ -99,6 +104,11 @@
       }
     }
 
+    .policy img{
+      box-shadow: 2px 13px 14px 3px rgb(63, 63, 63);
+      width: 330px;
+      height: 270px;
+    }
 
     .animated-content {
       animation: slideRight 1s ease forwards;

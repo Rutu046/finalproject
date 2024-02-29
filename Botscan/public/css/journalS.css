@@ -1,6 +1,6 @@
 .body_css {
     margin: 0;
-    padding: 0;
+    padding: 40;
     font-family: 'Arial', sans-serif;
     background-color: cornsilk;
     background-size: cover;
@@ -36,13 +36,14 @@ header h3:hover {
 
 .header2 h3 {
     animation: fadeIn 1s ease-in-out; /* Apply the fade-in animation */
+    padding-top: 20px;
 }
 
 
 .section2 {
     max-width: 800px;
     margin: 50px auto;
-    padding: 20px;
+    padding: 50px;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -74,9 +75,9 @@ p {
 
 
 .subscribe-btn2 {
-    margin-left: 330px;
+    margin-left: 300px;
     padding: 10px 20px;
-    background-color: #005580;
+    background-color: green;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;

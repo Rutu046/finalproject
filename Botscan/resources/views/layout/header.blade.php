@@ -12,6 +12,26 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
     integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
   <link rel="stylesheet" href="{{Asset("css/style.css")}}">
+  <!--
+  <link rel="stylesheet" href="css/apc.css">
+  <link rel="stylesheet" href="{{Asset("css/authors.css")}}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet" href="css/conference.css">
+  <link rel="stylesheet" href="{{Asset("css/editorteam.css")}}">
+  <link rel="stylesheet" href="{{Asset("css/ethicalguideline.css")}}">
+  <link rel="stylesheet" href="css/journalS.css">
+  <link rel="stylesheet" href="{{Asset("css/leadership.css")}}">
+  <link rel="stylesheet" href="{{Asset("css/manuscript.css")}}">
+  <link rel="stylesheet" href="{{Asset("css/policydetails.css")}}">
+  <link rel="stylesheet" href="{{Asset("css/privacypolicy.css")}}">
+  <link rel="stylesheet" href="{{Asset('css/reviewers.css')}}">
+  <link rel="stylesheet" href="{{Asset("css/termsandcond.css")}}">
+  <link rel="stylesheet" href="{{Asset("css/userinfo.css")}}">
+-->
+  
+
+  
+
 
 </head>
 
@@ -43,8 +63,15 @@
               <li class="nav-item ">
                 <a class="nav-link active  text-white" aria-current="page" href="/"><b>Home</b></a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link  text-white" href="#"><b>About Journal</b></a>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle  text-white" href="#" role="button" data-bs-toggle="dropdown"
+                  aria-expanded="false">
+                  <b>About Journal</b>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="/userinfo">Information for User</a></li>
+                  <li><a class="dropdown-item" href="/manuscript">Manuscript Preperation</a></li>
+                </ul>
               </li>
               <li class="nav-item">
                 <a class="nav-link  text-white" href="#"><b>Archives</b></a>
