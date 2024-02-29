@@ -18,29 +18,19 @@
     
     <h3>Peer Review Process</h3>
    <p>
-    <strong>Receive Paper:</strong> Record the date and assign a unique code number.
-    <br>
-    <strong>Send for Review:</strong> Send the paper to referees within two weeks.
-    <br>
-    <strong>Review:</strong> Should be completed within two months. Follow up if delayed.
-    <br>
-    <strong>Editor Review:</strong> Review results, return paper with comments to author.
-    <br>
-    <strong>Author Revision:</strong> Request changes within two weeks. English review follows.
-    <br>
-    <strong>Final Corrections:</strong> Convert to PDF after Associate Editors' check.
-  </p>
+   Publication Process for BotScanPapers
+Receive a paper from potential author. Record the date the paper was received and givesthe paper a unique code number. Within Two Weeks send a letter to the author indicating that the paper has arrived and we are processing it. Send the paper to the referees for review. Record the date the paper was sent for review. Review should not take longer than Two Months. If the paper has not been reviewed in this time, contact the reviewer. After the paper has been reviewed show the result to the Editor or Manager. Return the paper with comments to the author. Ask that requested changes are done quickly (Two Weeks) and that the author send an updated document file. Send the paper to the Editor for English review. Once the paper has been returned (Two Weeks), make the corrections and type set the paper as an x.doc file. Send the x.doc file to the Associate Editors, They so that they can check the paper follows the rules set down in the BotScans Notes for Authors. This should require a Few Days per paper. Once you’ve received the papers from the Associate Editors convert the x.doc file into a pdf file. Send the pdf file and the standard e-mail to the authors for final corrections. When you receive their comments make changes, if necessary, to the x.doc file in preparation for printing. The author is given Two Weeks to submit changes. When pages numbers are known prepare a pdf file of the paper for publication on the BotScan home page
 </section>
 
 <section id="publication-frequency animated-content">
   <h3>Publication Frequency</h3>
-  <p>BotScan is published monthly, covering all areas of science and technology.</p>
+  <p>BotScan is a peer-reviewed journal covering all areas of science and technology, launched in 2023. It is published 12 Issues (Monthly) by the KulDev Publication.</p>
 </section>
 
 <section id="open-access-policy animated-content">
   <h3>Open Access Policy</h3>
   <p>
-    This journal provides immediate open access to its content to support global knowledge exchange.
+  This journal provides immediate open access to its content on the principle that making research freely available to the public supports a greater global exchange of knowledge. (BotScan Publication Ethics and Malpractice)
   </p>
 </section>
 

@@ -2,11 +2,14 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manuscript Preperation</title>
-    <link rel="stylesheet" href="{{Asset("css/manuscript.css")}}">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conference Proceedings</title>
+  <link rel="stylesheet" href="css/manuscript.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 </head>
+
 
 <body class="background">
 
@@ -21,7 +24,7 @@
     </div>
 
     <div class="MP">
-        <h5><i>1. Highlights</i></h5>
+        <h5><i>● Highlights</i></h5>
         <p>Your highlights are the first thing about your paper that anyone online will read. Use the highlights to tell
             that potential reader what's so great about your paper and why they want to read it. Highlights are three to
             five bullet points that capture the novel results of your research as well as new methods that were used
@@ -30,7 +33,7 @@
             to the community of interested colleagues.</p>
     </div>
     <div class="MP">
-        <h5><i>2. Graphical</i></h5>
+        <h5><i>● Graphical</i></h5>
         <p>A graphical abstract is a single, concise, pictorial, and visual summary of the main findings of the article.
             This could either be the concluding figure from the article or a figure that is specially designed for the
             purpose, which captures the content of the article for readers at a single glance.<br><br>
@@ -43,14 +46,14 @@
         </p>
     </div>
     <div class="MP">
-        <h5><i>3. Consent To Publish And Copyright Transfer</i></h5>
+        <h5><i>● Consent To Publish And Copyright Transfer</i></h5>
         <p>This document represents an agreement between Author and BotScan. Journal requires authors to transfer the
             copyright prior to publication. This permits TiS to reproduce, publish, distribute and archive the article
             in print and electronic form and to defend against improper use of the article. By signing the Copyright
             Transfer Statement you still retain substantial rights, such as self-archiving.</p>
     </div>
     <div class="MP">
-        <h5><i>4. Title Page</i></h5>
+        <h5><i>● Title Page</i></h5>
         <p>The title page should include:<br><br>
             1. A concise and informative title.<br>
             2. Authors' names.<br>
@@ -61,7 +64,7 @@
     </div>
 
     <div class="MP">
-        <h5><i>5. Abstract</i></h5>
+        <h5><i>● Abstract</i></h5>
         <p>The abstract must be no more than 350 words and should be concise and include only the most important aspects
             of the study. The abstract should be a single paragraph and should follow the style of structured abstracts,
             but without headings:<br><br> 1) Introduction: Place the question addressed in a broad context and highlight the
@@ -76,7 +79,7 @@
     </div>
 
     <div class="MP">
-        <h5><i>6. Keywords</i></h5>
+        <h5><i>● Keywords</i></h5>
         <p>Five to ten keywords should be given below the abstract.
             We recommend that the keywords are specific to the article, yet reasonably common within the subject
             discipline.
@@ -84,7 +87,7 @@
     </div>
 
     <div class="MP">
-        <h5><i>7. Text</i></h5>
+        <h5><i>● Text</i></h5>
         <p>The text should be subdivided into Introduction, Materials and methods, Results and discussion, and
             Conclusions. General points for authors to consider include:<br><br>
             1. Please ensure that your manuscript has been spell-checked and grammar-checked before submission to remove
@@ -105,13 +108,13 @@
     </div>
 
     <div class="MP">
-        <h5><i>8. Acknowledgements</i></h5>
+        <h5><i>● Acknowledgements</i></h5>
         <p>Acknowledgements of people, grants, funds etc should be included in a section just before the references. The
             names of funding agencies, scholarships etc should be written in full.</p>
     </div>
 
     <div class="MP">
-        <h5><i>9. References</i></h5>
+        <h5><i>● References</i></h5>
         <p>References in the text should be cited in the manuscript by Arabic numerals in square brackets and numbered
             sequentially in order of citation. They should, if applicable, be before punctuation (example: text [1,2].).
             If multiple citations are used they should appear as follows: [1-3]. Proper abbreviations for all journals

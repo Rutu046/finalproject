@@ -1,9 +1,7 @@
-.background{
-    background-color:rgb(222, 240, 222);
-}
+
 
 .manuscript {
-    padding: 60px;
+    padding: 30px;
 }
 
 @keyframes fadeIn {
@@ -120,16 +118,18 @@ h5:hover {
 
 .policy-content p {
     color: black;
-    font-size: large;
+    text-align: left;
+    margin-left: 10px;
 }
 
 .table {
     color: navy;
     font-weight: bold;
     padding-top: 20px;
+    margin-left: 30px;
 }
 
-list-container {
+.list-container {
     width: 80%;
     margin: 0 auto;
     padding-top: 10px;
