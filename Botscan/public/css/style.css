@@ -323,13 +323,13 @@ img:hover {
   background-color: rgb(215, 247, 215);
 }
 
-.marqu {
+/* .marqu {
   display: flex;
   flex-wrap: nowrap;
   align-content: center;
   justify-content: space-around;
   align-items: center;
-}
+} */
 
 /*-------------------footer-----------------------*/
 
@@ -461,7 +461,7 @@ footer p {
 }
 
 .social_footer_ul li a:hover {
-  background-color: hsl(0, 44%, 68%);
+  background-color: rgb(162, 209, 8);
   color: hwb(247 2% 29%);
 }
 

@@ -192,7 +192,6 @@
       </div>
     </div>
 
-
     <div class="container">
        <ul class="foote_bottom_ul_amrc">
         <li><a href="#">Home</a></li>
