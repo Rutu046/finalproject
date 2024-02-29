@@ -1,3 +1,5 @@
+
+GOPAL PATIL
 <!DOCTYPE html>
 <html>
 
@@ -436,8 +438,8 @@
 
      <div class="container">
       <ul class="foote_bottom_ul_amrc">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
+        <li><a href="\index">Home</a></li>
+        <li><a href="\journalsubscription">About</a></li>
         <li><a href="#">Services</a></li>
         <li><a href="#">Pricing</a></li>
         <li><a href="#">Blog</a></li>

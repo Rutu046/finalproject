@@ -183,7 +183,6 @@
           <!--footer_ul_amrc ends here-->
         </div>
 
-
         <div class=" col-sm-4 col-md  col-6 col">
           <h5 class="headin5_amrc col_white_amrc pt2"><strong>Our Services</strong></h5>
           <!--headin5_amrc-->
@@ -218,7 +217,6 @@
         </div>
       </div>
     </div>
-
 
     <div class="container">
        <ul class="foote_bottom_ul_amrc">
