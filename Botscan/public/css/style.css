@@ -371,6 +371,7 @@ footer p {
   list-style-type: none;
   font-size: 14px;
   padding: 0px 0px 10px 0px;
+  text-decoration: none;
 }
 
 .footer_ul_amrc li {
@@ -441,6 +442,9 @@ footer p {
   margin: 0 12px;
 }
 
+
+/* social media icon  */
+
 .social_footer_ul {
   display: table;
   margin: 15px auto 0 auto;
@@ -451,13 +455,20 @@ footer p {
   padding-left: 20px;
   padding-top: 10px;
   float: left;
+  transition: color 0.3s ease-in-out; /* Add transition for color change */
 }
 
 .social_footer_ul li a {
-  color: white;
-  border: 1px solid white;
+  color: #fdf9f9;
+  border: 1px solid rgb(27, 232, 95);
   padding: 8px;
   border-radius: 50%;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out; /* Add transition for color change */
+}
+
+.social_footer_ul li a:hover {
+  background-color: hsl(0, 44%, 68%);
+  color: hwb(247 2% 29%);
 }
 
 .social_footer_ul li i {
@@ -465,6 +476,7 @@ footer p {
   height: 20px;
   text-align: center;
 }
+
 
 /* scroller */
 
